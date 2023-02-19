@@ -1,0 +1,13 @@
+h1{
+    
+    margin : 20px auto;
+    border: 1px solid red;
+    color: rgb(0, 140, 210);
+    padding: 10px 15px;
+    width: 300px;
+    text-align: center
+}
+body{
+    background-color: aquamarine;
+    padding : 15px 20px;
+}
